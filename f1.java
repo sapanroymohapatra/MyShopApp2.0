@@ -22,5 +22,6 @@ class F2 implements F1
 		f.m1();
 		f.m2();
 		f.m3();
+		f.m4();
 	}
 }
